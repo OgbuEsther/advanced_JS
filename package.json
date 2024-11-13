@@ -1,0 +1,20 @@
+{
+  "name": "js_testing",
+  "version": "1.1.0",
+  "description": "this is testing using MOCHA and CHAI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha revision.js"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Esther Ogbu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
